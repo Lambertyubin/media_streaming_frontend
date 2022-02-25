@@ -8,14 +8,19 @@ My goal was to build a streaming platform for video contents centered around com
 
 ### Frontend
 
-- Some stateful logic: [link to stateful logic]
-- CSS using Sass: [link to css]
-- UI components: [link]
-  The application fetched data from a backend API that I built as part of the project.
-- Requests to API for authentication: [link]
-- Requests to API for video content: [link]
+- Frontend Routing: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/MainRouter.js#L17)
+- Some stateful logic: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/components/media/EditMedia.js#L49)
+- CSS using Sass: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/components/featured/featured.scss#L1)
 
-- Integration tests using React Testing Library [link to example test]
+- The application fetches data from a backend API that I built as part of the project.
+- Requests to API for authentication: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/auth/api-auth.js#L3)
+- Requests to API for video content: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/components/media/api-media.js#L71)
+
+- Integration tests using React Testing Library
+
+### Backend
+
+- [Link to Backend](https://github.com/Lambertyubin/media_streaming_backend)
 
 ## Why I built the project this way
 
