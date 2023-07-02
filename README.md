@@ -16,7 +16,6 @@ My goal was to build a streaming platform for video contents centered around com
 - Requests to API for authentication: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/auth/api-auth.js#L3)
 - Requests to API for video content: [Click here](https://github.com/Lambertyubin/media_streaming_frontend/blob/main/src/components/media/api-media.js#L71)
 
-- Integration tests using React Testing Library
 
 ### Backend
 
